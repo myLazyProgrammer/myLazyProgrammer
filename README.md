@@ -9,6 +9,16 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myLazyProgrammer&count_private=true&show_icons=true&theme=dracula)](https://github.com/myLazyProgrammer)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   20 hrs 26 mins  ██████████████████████▒░░   89.88 %
+JavaScript   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Go           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Thrift       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+SCSS         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+```
+
 <!--END_SECTION:waka-->
 
 
