@@ -6,6 +6,12 @@
 
 - 🏢 My current working city is Shang Hai.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myLazyProgrammer&count_private=true&show_icons=true&theme=dracula)](https://github.com/myLazyProgrammer)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ### Languages and Tools:
 <div style="display:flex;">
 <code><a href="https://www.javascript.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code> | <code><a href="https://www.typescriptlang.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code> | <code><a href="https://nodejs.org/en/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code> | <code><a href="https://reactjs.org/"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code> | <code><a href="https://cn.vuejs.org/index.html"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a></code>
