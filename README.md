@@ -19,6 +19,7 @@
 
 ### wakatime
 <!--START_SECTION:waka-->
+
 ```text
 TypeScript   20 hrs 26 mins  ██████████████████████▒░░   89.88 %
 JavaScript   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
