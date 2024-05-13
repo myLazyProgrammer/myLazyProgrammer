@@ -21,8 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 hr 9 mins     ███████████████▓░░░░░░░░░   62.01 %
-TypeScript   42 mins         █████████▒░░░░░░░░░░░░░░░   37.99 %
+Bash         1 hr 51 mins    ██████████████████░░░░░░░   72.45 %
+TypeScript   42 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
