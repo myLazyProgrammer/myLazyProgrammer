@@ -21,9 +21,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     20 mins         ███████████████░░░░░░░░░░   59.86 %
-JavaScript   13 mins         ██████████░░░░░░░░░░░░░░░   39.89 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown     20 mins         █████████████████████████   99.91 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
